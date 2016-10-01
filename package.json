@@ -19,6 +19,6 @@
     "core-js": "npm:core-js@^1.1.4"
   },
   "dependencies": {
-    "babel-polyfill": "npm:babel-polyfill@6.13.0"
+    "babel-polyfill": "npm:babel-polyfill@6.16.0"
   }
 }

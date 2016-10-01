@@ -1,2 +1,1 @@
-import {main} from './yuml.js';
-main();
+export * from './yuml.js';
