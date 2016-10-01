@@ -1,0 +1,24 @@
+{
+  "name": "systemjs-yuml",
+  "version": "1.0.0",
+  "description": "helps to visualize the systemjs dependencies graph",
+  "directories": {
+    "lib": "src"
+  },
+  "main": "index.js",
+  "format": "es6",
+  "registry": "jspm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremy daniel bouvier",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "npm:babel-core@^5.8.24",
+    "babel-runtime": "npm:babel-runtime@^5.8.24",
+    "core-js": "npm:core-js@^1.1.4"
+  },
+  "dependencies": {
+    "babel-polyfill": "npm:babel-polyfill@6.13.0"
+  }
+}
